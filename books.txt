@@ -1,0 +1,4 @@
+PrintedBook,Cach tri hoi dau,Nguyen Tan Duc,Health,123123,true,,200
+PrintedBook,How to learn OOP,Shiba Inu,Programming,4444,true,,420
+PrintedBook,Cach lap trinh hieu qua,Le Quoc Kiet,Programming,101010,true,,123
+Ebook,Cach mua ys sieu hay,Viruss,Gaming,666,true,PDF
